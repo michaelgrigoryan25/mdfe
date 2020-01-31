@@ -20,7 +20,7 @@ def check_distance():
     title = soup.find(id="disearth").get_text()
     mars_distance = soup.find(id="disearth").get_text()
     converted_dist = float(mars_distance)
-    target_distance = float(292330000)
+    target_distance = float(292110000)
     starting_distance = float(293500000)
     distance_from_earth = str(starting_distance - converted_dist)
 
