@@ -1,1 +1,3 @@
-
+pip install smtplib
+pip install requests
+pip install bs4
