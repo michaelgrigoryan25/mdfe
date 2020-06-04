@@ -1,9 +1,7 @@
 # MDFE(Mars's distance from earth)
 
 # Installing the libraries
-```pip install smtplib```
-```pip install requests```
-```pip install bs4```
+```pip install -r requirements.txt```
 
 (Note that you'll need a Google Account for This Project)
 ## Step 1
